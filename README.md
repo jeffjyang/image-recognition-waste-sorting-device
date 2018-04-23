@@ -1,8 +1,10 @@
-A continuation of nwHacks 2018. An image recognition waste sorting system that
+**A continuation of nwHacks 2018. An image recognition waste sorting system that
 uses AWS Rekognition to identify what category (garbage, recycling, or compost)
 a piece of trash belongs to. The system will then open the corresponding waste
-bin for proper trash disposal.
+bin for proper trash disposal.**
 
+
+---
 
 Functionalities:
 ------
@@ -27,6 +29,8 @@ Functionalities:
 - Log kept of when each bin was accessed
 - Count of the number of items that have been deposited into the bins and reset button
 
+
+---
 
 Technologies:
 ------
